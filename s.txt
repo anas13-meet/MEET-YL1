@@ -1,2 +1,0 @@
-print " Anas Ismail"
-print " Y1 one is the best"
