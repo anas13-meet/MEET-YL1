@@ -1,0 +1,12 @@
+def allnumbers():
+    mynum=  raw_input ('choose a number:')
+    mynum= int(mynum)
+    
+    divgroup = []
+    for i in xrange(1,mynum):
+            print i
+            i=i+1
+    print mynum
+    divgroup.append(mynum)
+    
+
